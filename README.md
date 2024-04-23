@@ -1,5 +1,5 @@
-<H3>ENTER YOUR NAME</H3>
-<H3>ENTER YOUR REGISTER NO.</H3>
+<H3>ENTER YOUR NAME : DHANASHREE M</H3>
+<H3>ENTER YOUR REGISTER NO : 212221230018</H3>
 <H3>EX. NO.6</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER>Implementation of Semantic ANalysis</H1>
@@ -83,7 +83,12 @@ for sentence in sentences:
   i+=1
 ```
 
-Show your results here
+### Show your results here
+
+<img width="278" alt="Screenshot 2024-04-23 at 11 13 21 PM" src="https://github.com/Dhanashreemullaithasan/Ex-6--AAI/assets/94165415/7628e36f-4934-41da-bfca-62ea9fc48a1f">
+
+<img width="1004" alt="Screenshot 2024-04-23 at 11 14 02 PM" src="https://github.com/Dhanashreemullaithasan/Ex-6--AAI/assets/94165415/30b8b9ba-e717-47b8-9420-adbbe33b6499">
 
 <H3>Result:</H3>
+
 Thus ,the program to perform the Parts of Speech identification and Synonymis executed sucessfully.
